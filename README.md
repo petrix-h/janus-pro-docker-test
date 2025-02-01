@@ -28,7 +28,12 @@ python3 demo/app_januspro.py
 
 Run Janus (non-pro, less vram required): 
 ```
-python demo/app.py
+python3 demo/app.py
+```
+
+Run JanusFlow: 
+```
+python3 demo/app_janusflow.py
 ```
 
 
