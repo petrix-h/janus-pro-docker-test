@@ -27,7 +27,7 @@ python3 demo/app_januspro.py
 ```
 
 
-## Running non-interactively
+## Running non-interactively (TODO seems to hang)
 
 Observe output for URL and model loading status
 ```
