@@ -26,7 +26,7 @@ Run Janus-Pro-7B (requires significant GPU vRAM, some say >=24GB):
 python3 demo/app_januspro.py
 ```
 
-Run Janus (non-pro, less vram required): 
+Run Janus (non-pro, less vram required): TODO seems to crash 
 ```
 python3 demo/app.py
 ```
