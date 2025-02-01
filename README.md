@@ -21,9 +21,14 @@ Activate python virtual env
 source .venv/bin/activate
 ```
 
-Run: 
+Run Janus-Pro-7B (requires significant GPU vRAM, some say >=24GB): 
 ```
 python3 demo/app_januspro.py
+```
+
+Run Janus (non-pro, less vram required): 
+```
+python demo/app.py
 ```
 
 
